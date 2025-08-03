@@ -1,0 +1,61 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css
+
+h1{
+  font-size: 37px;
+  font-family: Arial;
+}
+
+h6{
+  font-size: 15px;
+  font-family: Arial;
+  margin-top: -7%;
+}
+
+.img{
+  height: 200px;
+  width: 300px;
+  margin-top: -7%;
+}
+
+p{
+  font-size: 20px;
+  font-family: Arial;
+  text-align: justify;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+img{
+  height: 130px;
+  width: 150px;
+}
+
+.noticia a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+  gap: 10px; 
+  margin-bottom: 15px;
+}
+
+.rede a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+  gap: 10px; 
+  margin-bottom: 15px;
+}
+
+
+aside p {
+  margin-bottom: 20px;
+}
+
+footer{
+  background-color: #deb105;
+  margin-top: 10%;
+}
